@@ -38,4 +38,4 @@ Screenshots for your references
 
 
 Contact
-If you have any questions or suggestions, please feel free to contact the developer at sayyed.shajar@wipro.com.
+If you have any questions or suggestions, please feel free to contact the developer at sa707510@gmail.com
