@@ -28,14 +28,11 @@ Usage
 
 Credits
 Developer: Sayyed Samar Abbas
+
 Translation data provided by MyMemory Translation API
 
 License
 This project is open-source and available under the MIT License.
-
-Screenshots for your references
-
-
 
 Contact
 If you have any questions or suggestions, please feel free to contact the developer at sa707510@gmail.com
